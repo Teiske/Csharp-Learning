@@ -1,5 +1,15 @@
+//TextHello
 TextHello.sln
 TextHello.csproj
+TextHello.csproj.user
+
+//WinFromHello
+WinFromHello.sln
+WinFromHello.csproj
+WinFromHello.csproj.user
+App.config
+
 bin
 obj
+Properties
 .vs
