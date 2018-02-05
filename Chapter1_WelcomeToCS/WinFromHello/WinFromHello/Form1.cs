@@ -13,5 +13,9 @@ namespace WinFromHello {
         public Form1() {
             InitializeComponent();
         }
+
+        private void ok_Click(object sender , EventArgs e) {
+            MessageBox.Show("Hello " + userName.Text);
+        }
     }
 }

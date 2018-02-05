@@ -8,6 +8,7 @@ WinFromHello.sln
 WinFromHello.csproj
 WinFromHello.csproj.user
 App.config
+Form1.resx
 
 bin
 obj
